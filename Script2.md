@@ -1,4 +1,4 @@
-Backstory
+# Backstory
 
 A peaceful world has turned into chaos in recent years.
 A dark force has summoned hordes of monsters into the once peaceful meadows and woods of Tangea. 
@@ -29,7 +29,7 @@ she doesnt know much. This is why she has to somehow find out more.
 One of these things unknown to Kira is that if Malkiro should fall, 
 all his creations will die alongside him…
 
-Locations
+# Locations
 
 Oak town is a small medieval village/town surrounded by expansive stretches of grassland. 
 Beyond the meadows, there is the forest of Deepwood. Once a peaceful forest, 
